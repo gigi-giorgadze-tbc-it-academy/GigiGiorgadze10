@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GigiGiorgadze10
+- 👋 Hi, I’m Gigi Giorgadze
 - 👀 I’m interested in developing my programming skills
-- 🌱 I’m currently learning HTML/CSS, JS, React, PHP, C#
+- 🌱 I’m currently learning HTML/CSS, JS, Angular, C#
 - 💞️ I’m looking to collaborate on various interesting projects
 - 📫 How to reach me giorgadze.gigi2004@gmail.com
 
